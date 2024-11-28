@@ -18,7 +18,7 @@ const Contact = () => {
               <p className='font-semibold text-lg text-gray-600 '>Our Office</p>
               <p className='text-gray-500'>Coimbatore <br />TamilNadu,India</p>
               <p className='text-gray-500'>Tel : +91 9856325412 <br />Email: healpoint@gmail.com</p> 
-              <p className='font-semibold text-lg text-gray-600 '>Careers at PRESCRIPTO</p>
+              <p className='font-semibold text-lg text-gray-600 '>Careers at HealPoint</p>
               <p className='text-gray-500'>Learm more about our teams and job openings.</p>
               <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Job</button>
             </div>
